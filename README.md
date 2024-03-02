@@ -1,4 +1,5 @@
-## YOLO9000: 빠르고 정확한 객체 감지를 위한 혁신적인 방법
+# **YOLO9000:Better, Faster, Stronger**
+
 
 ### 소개
 - Object Detection: 빠르고 정확한 다양한 객체 감지가 필수적.
